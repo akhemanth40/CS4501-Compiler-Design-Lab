@@ -3,3 +3,4 @@ lex.yy.c
 *.tab.h
 calc
 tac
+typecheck
